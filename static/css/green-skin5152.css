@@ -1,0 +1,126 @@
+/* ------------------------------------------------------------------------------------------------------------------ */
+/* -------------------------------------------------- Green Skin ---------------------------------------------------- */
+/* ------------------------------------------------------------------------------------------------------------------ */
+/* Header ---------------------------------------------------------------------------------------------------------*/
+.header-wrapper {
+  background-color: #4fb084;
+}
+
+span.tag-line {
+  color: #ddf6e9;
+}
+
+.main-nav div > ul > li a {
+  color: #ddf6e9;
+}
+
+.main-nav .sub-menu li {
+  background-color: #34996c;
+}
+.main-nav .sub-menu li:hover {
+  background-color: #277351;
+}
+
+.search-area-wrapper {
+  background-image: url("green-skin/green-bg.jpg");
+  background-color: #229d8e;
+}
+.search-area-wrapper form.search-form input.search-btn {
+  background-color: #4fb081;
+}
+.search-area-wrapper form.search-form input.search-btn:hover {
+  background-color: #4aa579;
+}
+
+/* Footer ------------------------------------------------------------------------------------------------------------*/
+#footer-wrapper {
+  background-image: url("green-skin/footer-bg.png");
+}
+
+#footer-bottom-wrapper {
+  background-color: #2c493c;
+}
+
+#footer .widget {
+  color: #7baa94;
+}
+
+#footer .widget a {
+  color: #fff;
+}
+
+#footer .widget ul li {
+  border-color: #3c614f;
+}
+
+#footer .widget #twitter_update_list > ul > li span {
+  color: #537465;
+}
+
+#footer-bottom .copyright {
+  color: #6c9683;
+}
+
+.flickr-photos img {
+  background-color: #6c9683;
+}
+.flickr-photos img:hover {
+  background-color: #99b6a9;
+}
+
+.social-nav li.facebook a {
+  background-image: url("green-skin/facebook.png");
+}
+.social-nav li.deviantart a {
+  background-image: url("green-skin/devine-art.png");
+}
+.social-nav li.flickr a {
+  background-image: url("green-skin/flickr.png");
+}
+.social-nav li.google a {
+  background-image: url("green-skin/google.png");
+}
+.social-nav li.linkedin a {
+  background-image: url("green-skin/linked-in.png");
+}
+.social-nav li.rss a {
+  background-image: url("green-skin/rss.png");
+}
+.social-nav li.skype a {
+  background-image: url("green-skin/skype.png");
+}
+.social-nav li.stumble a {
+  background-image: url("green-skin/stumble.png");
+}
+.social-nav li.twitter a {
+  background-image: url("green-skin/twitter.png");
+}
+
+a#scroll-top {
+  background-color: #3f8d6a;
+}
+a#scroll-top:hover {
+  background-color: #479e77;
+}
+
+.tabs-nav li.active a {
+  color: #4fb084;
+  border-top: 2px solid #4fb084;
+}
+
+.toggle dt span,
+.accordion dt span {
+  background-image: url("green-skin/plus-minus.png");
+}
+
+.faq-icon {
+  background-image: url("green-skin/faq-plus.png");
+}
+
+.faq-item.active .faq-icon {
+  background-image: url("green-skin/faq-minus.png");
+}
+
+.faq-item.active h3.faq-question {
+  color: #3b4348;
+}

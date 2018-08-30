@@ -1,0 +1,104 @@
+/* ------------------------------------------------------------------------------------------------------------------ */
+/* -------------------------------------------------- Blue Skin ----------------------------------------------------- */
+/* ------------------------------------------------------------------------------------------------------------------ */
+/* Header ---------------------------------------------------------------------------------------------------------*/
+.header-wrapper {
+  background-color: #6392C6;
+}
+
+span.tag-line {
+  color: #fff;
+}
+
+.main-nav div > ul > li a {
+  color: #E3EDF8;
+}
+
+.main-nav .sub-menu li {
+  background-color: #4A7AAF;
+}
+.main-nav .sub-menu li:hover {
+  background-color: #3b618b;
+}
+
+.search-area-wrapper {
+  background-image: url("blue-skin/blue-bg.jpg");
+  background-color: #4c4a77;
+}
+.search-area-wrapper form.search-form input.search-btn {
+  background-color: #6392C6;
+}
+.search-area-wrapper form.search-form input.search-btn:hover {
+  background-color: #588ac2;
+}
+
+/* Footer ------------------------------------------------------------------------------------------------------------*/
+#footer-wrapper {
+  background-image: url("blue-skin/footer-bg.png");
+}
+
+#footer-bottom-wrapper {
+  background-color: #2D3A4B;
+}
+
+#footer .widget {
+  color: #7E95AF;
+}
+
+#footer .widget a {
+  color: #fff;
+}
+
+#footer .widget ul li {
+  border-color: #3E5064;
+}
+
+#footer .widget #twitter_update_list > ul > li span {
+  color: #58687a;
+}
+
+#footer-bottom .copyright {
+  color: #6F839B;
+}
+
+.flickr-photos img {
+  background-color: #6F839B;
+}
+.flickr-photos img:hover {
+  background-color: #9caaba;
+}
+
+.social-nav li.facebook a {
+  background-image: url("blue-skin/facebook.png");
+}
+.social-nav li.deviantart a {
+  background-image: url("blue-skin/devine-art.png");
+}
+.social-nav li.flickr a {
+  background-image: url("blue-skin/flickr.png");
+}
+.social-nav li.google a {
+  background-image: url("blue-skin/google.png");
+}
+.social-nav li.linkedin a {
+  background-image: url("blue-skin/linked-in.png");
+}
+.social-nav li.rss a {
+  background-image: url("blue-skin/rss.png");
+}
+.social-nav li.skype a {
+  background-image: url("blue-skin/skype.png");
+}
+.social-nav li.stumble a {
+  background-image: url("blue-skin/stumble.png");
+}
+.social-nav li.twitter a {
+  background-image: url("blue-skin/twitter.png");
+}
+
+a#scroll-top {
+  background-color: #4278b4;
+}
+a#scroll-top:hover {
+  background-color: #5085bf;
+}
